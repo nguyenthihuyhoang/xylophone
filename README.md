@@ -1,6 +1,7 @@
 # xylophone
 
 A new Flutter project.
+![demo](/assets/demo.png)
 
 ## Getting Started
 
